@@ -1,0 +1,1 @@
+# QuestionBot : QuestionBot is a bot for your discord server, the bot is very simple, type '' .question [your question here] and the bot will give you answer to it!
